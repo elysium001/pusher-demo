@@ -12,3 +12,7 @@ This plugin demonstrates how to use the Pusher service to send messages to the c
 1. Create a new page with the shortcode `[pusher-demo]`.
 2. Open the page in two different browsers.
 3. Use the debugger console to send messages to the server and see them appear in the other browser.
+
+## Development
+1. Clone the repository.
+2. Run `composer install` to install dependencies.
